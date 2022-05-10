@@ -13,4 +13,13 @@ let dict = {
 }
 ```
 
+As an alternative way to create a dictionary, you can first initialize an Object instance and populate it with key-value pairs in the following manner.
+
+```javascript
+let dict = new Object()
+dict["id"] = 123
+dict["name"] = "Anj"
+```
+
+
 
